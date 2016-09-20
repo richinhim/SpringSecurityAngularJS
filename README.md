@@ -1,2 +1,0 @@
-# SpringSecurityAngularJS
-# SpringSecurityAngularJS
